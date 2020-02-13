@@ -1,4 +1,12 @@
-# Telar Social Serverless
+<p align="center">
+  <a href="https://telar.press/" rel="noopener" target="_blank"><img width="150" src="https://raw.githubusercontent.com/red-gold/red-gold-web/master/website/static/img/logos/telar-social-logo/profile.png" alt="Material-UI logo"></a></p>
+</p>
+
+<h1 align="center">Telar Social Serverless</h1>
+
+<div align="center">
+  A modern social network using cloud native technology based on OpenFaaS serverless function.
+</div>
 
 Telar Social Network is an open source social network written in Go and based on serveless functions.
 
@@ -30,3 +38,16 @@ Telar Social Network is an open source social network written in Go and based on
 ### TODO
 - [ ] Unit test
 - [ ] Optimization and Performance
+
+## Community
+
+Need help, [join our community](https://redgold.zulipchat.com/join/mriclcuqjawh8w1072v7ti2h/).
+
+## Documentation
+
+Check out our [documentation website](https://red-gold.tech/docs/en/social/get_started/).
+
+## License
+
+This project is licensed under the terms of the
+[MIT license](/LICENSE).
